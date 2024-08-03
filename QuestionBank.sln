@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuestionBank.Server", "QuestionBank.Server\QuestionBank.Server.csproj", "{FEEC4007-E52F-4604-88DB-83D91B3DADEE}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "questionbank.client", "questionbank.client\questionbank.client.esproj", "{3EF90A37-A5E7-4770-9232-8D664CBB3ECA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEEC4007-E52F-4604-88DB-83D91B3DADEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEEC4007-E52F-4604-88DB-83D91B3DADEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEEC4007-E52F-4604-88DB-83D91B3DADEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEEC4007-E52F-4604-88DB-83D91B3DADEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EF90A37-A5E7-4770-9232-8D664CBB3ECA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EF90A37-A5E7-4770-9232-8D664CBB3ECA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EF90A37-A5E7-4770-9232-8D664CBB3ECA}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{3EF90A37-A5E7-4770-9232-8D664CBB3ECA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EF90A37-A5E7-4770-9232-8D664CBB3ECA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EF90A37-A5E7-4770-9232-8D664CBB3ECA}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C576E56E-C244-462A-89B3-1327DC351DCE}
+	EndGlobalSection
+EndGlobal

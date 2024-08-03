@@ -1,0 +1,35 @@
+/* You can add global styles to this file, and also import other style files */
+
+/*html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }*/
+
+/* src/styles.css */
+body {
+  background-color: #f7f7f7;
+}
+
+.login-container, .signup-container {
+  max-width: 400px;
+  margin: 50px auto;
+}
+
+.card {
+  border: none;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card-title {
+  margin-bottom: 20px;
+  font-size: 24px;
+}
+
+.btn-primary {
+  background-color: #007bff;
+  border: none;
+}
+
+  .btn-primary:hover {
+    background-color: #0056b3;
+  }
+
